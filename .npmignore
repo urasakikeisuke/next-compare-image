@@ -1,0 +1,13 @@
+# for n in * .[^.]**; do printf '%s\n' "$n"; done
+
+.all-contributorsrc
+.babelrc
+.eslintrc.js
+.git
+.gitignore
+.npmignore
+.prettierrc.toml
+node_modules
+src
+tsconfig.json
+webpack.production.config.js
